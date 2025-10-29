@@ -7,7 +7,7 @@
             set.add(num);
         }
 
-
+        // code fixed
         // copy the set elements to the arr and sort it
         int[] arr2 = new int[set.size()];
         int x = 0;
